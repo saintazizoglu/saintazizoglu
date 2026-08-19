@@ -5,7 +5,7 @@
 ---
 
 - **student** learning **Java** and OOP fundamentals.
-- Studying **software development**.
+- studying **software development**.
 
 ---
 
